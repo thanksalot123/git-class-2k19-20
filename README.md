@@ -20,3 +20,5 @@ This repo is here for the purpose of learning and practicing git.
 
 Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
 
+Aman Thakur - [Aman Thakur](https://github.com/johnsnow456)
+
