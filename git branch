@@ -1,0 +1,83 @@
+[33mcommit 166f49cedd2801e504eff8957795159d70785177[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PURUSHOTAM28101 <npurushotamkumar28@gmail.com>
+Date:   Mon Sep 2 15:02:22 2019 +0530
+
+    Just deleted my branch alpha
+
+[33mcommit 6f9edb76452b908c736ffdd01ddf855350dad1cb[m[33m ([m[1;31morigin/alpha[m[33m)[m
+Author: PURUSHOTAM28101 <npurushotamkumar28@gmail.com>
+Date:   Mon Sep 2 14:50:32 2019 +0530
+
+    First branch commit
+
+[33mcommit 093ea2bf1c6144b0da521ebc90cb03ba592b7d58[m
+Author: PURUSHOTAM28101 <npurushotamkumar28@gmail.com>
+Date:   Mon Sep 2 14:28:44 2019 +0530
+
+    first commit
+
+[33mcommit 1d2c264f027e079d492c9e1cae5ebc93d55839d8[m
+Merge: 41a54b7 1ad7664
+Author: Shailesh Kumar Sahu <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 06:35:32 2019 +0000
+
+    Merge pull request #5 from Khiladi20-20/master
+    
+    Hello
+
+[33mcommit 41a54b7c13eebbccf398a61be8983d9e80c95fdd[m
+Merge: 806e7b8 e84503c
+Author: Shailesh Kumar Sahu <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 06:33:41 2019 +0000
+
+    Merge pull request #4 from Akash701548/master
+    
+    mess by akash
+
+[33mcommit 806e7b877581f02e66219aa3fc09d5b634f47763[m
+Merge: be3e471 e9652e2
+Author: Shailesh Kumar Sahu <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 06:29:45 2019 +0000
+
+    Merge pull request #2 from Akashsaxena2308/master
+    
+    added folder akash
+
+[33mcommit be3e471cc65b2efa31a2bc58141066f8178b5fb1[m
+Merge: 2011e6a 7e44779
+Author: Shailesh Kumar Sahu <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 06:14:57 2019 +0000
+
+    Merge pull request #1 from shellkore/master
+    
+    added folder shailesh
+
+[33mcommit e84503c2148e07647371885d6e5adebf5673a77c[m
+Author: Akash701548 <ay701548@gmail.com>
+Date:   Mon Sep 2 11:37:32 2019 +0530
+
+    mess
+
+[33mcommit 1ad7664d0aa033ef2baa7499b2af509de9810756[m
+Author: Khiladi20-20 <ravindersingh0123@gmail.com>
+Date:   Mon Sep 2 11:36:00 2019 +0530
+
+    Hello
+
+[33mcommit e9652e2a4ef9abdf337989995e45a7e200c8813b[m
+Author: Akash <youremail@gmail.com>
+Date:   Mon Sep 2 11:33:03 2019 +0530
+
+    added folder akash
+
+[33mcommit 7e44779d63bd7b70631926ebd4092a099eb0e453[m
+Author: shellkore <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 11:31:20 2019 +0530
+
+    added folder shailesh
+
+[33mcommit 2011e6a235e28f8477de1c33a5faa085a5df5a89[m
+Author: Shailesh Kumar Sahu <shellkoresahu@gmail.com>
+Date:   Mon Sep 2 08:44:13 2019 +0530
+
+    Create README.md
