@@ -20,3 +20,4 @@ This repo is here for the purpose of learning and practicing git.
 
 Shailesh Kumar Sahu - [shellkore](https://github.com/shellkore)
 
+VIKAS DHAYAL - [dhayalvikas2109@gmail.com](www.moderntechnology.com)
